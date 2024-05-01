@@ -1,4 +1,4 @@
-# Exercicios do livro
+# Exercícios do livro
 
 Introdução à Programação com Python - 2ª Edição
 
