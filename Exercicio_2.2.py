@@ -21,6 +21,6 @@ Seguindo a ordem de operações:
 	( 100 + 1 = 101 ) (adição)
 	( 101 - 20 = 81 ) (subtração do resultado da divisão)
     
-Resultado final da expressão é 81.
+Resultado final da expressão é 81.0
 
 '''
